@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there, I'm Ali Razzaq - 👋
 
-<!--
-**alirazzaq/alirazzaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/website?label=alirazzaq.me&style=for-the-badge&url=https%3A%2F%2Falirazzaq.me)](https://alirazzaq.me)
 
-Here are some ideas to get you started:
+## I'm a Freelance Web Application Security Researcher
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning DevOps 
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to learn Everything
+
+
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+
+
+
+</details>
+
+[website]: https://alirazzaq.me
+[instagram]: https://instagram.com/alirazzaq_
+[linkedin]: https://linkedin.com/in/alirazzaq
