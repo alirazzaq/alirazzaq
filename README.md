@@ -1,6 +1,6 @@
 ### Hi there, I'm Ali Razzaq - 👋
 
-[![Website](https://img.shields.io/website?label=alirazzaq.me&style=for-the-badge&url=https%3A%2F%2Falirazzaq.me)](https://alirazzaq.me)
+[![Website](https://img.shields.io/website?label=alirazzaq.me&style=for-the-badge&url=http%3A%2F%2Falirazzaq.me)](http://alirazzaq.me)
 
 ## I'm a Freelance Web Application Security Researcher
 
@@ -23,6 +23,6 @@
 
 </details>
 
-[website]: https://alirazzaq.me
+[website]: http://alirazzaq.me
 [instagram]: https://instagram.com/alirazzaq_
 [linkedin]: https://linkedin.com/in/alirazzaq
