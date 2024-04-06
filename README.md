@@ -4,7 +4,7 @@
 
 ## I'm a Freelance Web Application Security Researcher
 
-- 🌱 I’m currently learning DevOps 
+- 🌱 I’m currently learning Data Analytics
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to learn Everything
