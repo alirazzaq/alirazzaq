@@ -2,11 +2,11 @@
 
 [![Website](https://img.shields.io/website?label=alirazzaq.me&style=for-the-badge&url=http%3A%2F%2Falirazzaq.me)](http://alirazzaq.me)
 
-## I'm a Freelance Web Application Security Researcher
+## I'm a Freelance Web Application Security Researcher and Data Analyst
 
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to learn Everything
 
 
