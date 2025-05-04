@@ -23,6 +23,6 @@
 
 </details>
 
-[website]: https://alirazzaq.me
+[website]: https://alirazzaq.pro
 [instagram]: https://instagram.com/alirazzaq_
 [linkedin]: https://linkedin.com/in/alirazzaq
